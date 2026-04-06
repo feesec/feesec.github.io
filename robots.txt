@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://feesec.github.io/sitemap.xml
